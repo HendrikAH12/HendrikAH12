@@ -21,7 +21,6 @@ Hobbies: develop my own projects and play videogames
   <img align="center" alt="Hendrik-Js" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="Hendrik-Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img align="center" alt="Hendrik-Js" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> 
-  <img align="center" alt="Hendrik-Js" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 </div>
 
 ### Talk with me
