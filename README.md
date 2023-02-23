@@ -4,12 +4,7 @@ Live in Uberlândia, Brazil
 
 Computer Science Student at Federal University of Uberlândia - UFU
 
-Hobbies: develop my own projects and play videogames
-
-<div>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=HendrikAH12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikAH12&layout=compact&langs_count=16&theme=tokyonight" />
-</div>
+Hobbies: develop my own projects and learn about motorcycles mechanics
   
 ### Some of my knowledges/tools that I use
 
